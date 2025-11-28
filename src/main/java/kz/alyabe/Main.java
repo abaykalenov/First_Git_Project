@@ -7,5 +7,7 @@ public class Main {
         System.out.println("This is for testing pull method");
         System.out.println("This is another developer's update");
         System.out.println("This is for testing merge");
+
+        System.out.println("Git writing from another branch");
     }
 }
